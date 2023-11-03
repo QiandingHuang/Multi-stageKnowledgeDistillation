@@ -1,5 +1,7 @@
 # Mutil-stageKnowledgeDistillation
 
+**Our code has been migrated to the SAMLab team's github account, and please find them at: https://github.com/GZU-SAMLab/MSKD**
+
 **Mutil-stage knowledge distillation (MSKD)** can facilitate the accuracy of plant disease detection, which may be a new and vital direction for lightweight algorithmic models in smart agriculture with practical applications.
 
 ## The Overview of Mutil-stage Knowledge Distillation
