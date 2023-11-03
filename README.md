@@ -7,6 +7,8 @@
 In the preprint, we put the address of the code repository in a hyperlink in the abstract, but when the paper was published, only the hyperlink character "https://github.com/QDH/MSKD" was preserved, and the URL was lost.
 
 
+
+
 **Mutil-stage knowledge distillation (MSKD)** can facilitate the accuracy of plant disease detection, which may be a new and vital direction for lightweight algorithmic models in smart agriculture with practical applications.
 
 ## The Overview of Mutil-stage Knowledge Distillation
