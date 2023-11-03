@@ -4,7 +4,7 @@
 
 **Our code has been migrated to the SAMLab team's github account, and please find them at: https://github.com/GZU-SAMLab/MSKD**
 
-In the preprint, we put the code warehouse address in the hyperlink in the abstract, but when the paper was published, the hyperlink characters "https://github.com/QDH/MSKD"  only is kept the paper that losses the URL.
+In the preprint, we put the address of the code repository in a hyperlink in the abstract, but when the paper was published, only the hyperlink character "https://github.com/QDH/MSKD" was preserved, and the URL was lost.
 
 
 **Mutil-stage knowledge distillation (MSKD)** can facilitate the accuracy of plant disease detection, which may be a new and vital direction for lightweight algorithmic models in smart agriculture with practical applications.
